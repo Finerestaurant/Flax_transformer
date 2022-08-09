@@ -5,3 +5,5 @@
 
 * Transformer의 구조를 Flax로 구현해보고 train까지 해보면서 Flax의 구조를 알아가보도록 하자.
 
+* reference
+  * Flax official transformer implementation: https://github.com/google/flax/tree/main/examples/wmt
